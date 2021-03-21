@@ -1,6 +1,6 @@
 # Super Rinkeby Alpha
 
-www.alpha.superrinkeby.com
+superrinkeby.com
 
 ## A fully decentralized game on IPFS.
 ![cover-photo](https://user-images.githubusercontent.com/19412160/110062794-edba1280-7d37-11eb-930e-fd6ebda5d00d.png)
